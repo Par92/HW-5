@@ -1,5 +1,5 @@
 # HW-5
-Password Generator
+Work Day Scheduler
 
 - Tasked with creating a calendar application that will allow a user to save events for each hour of the day.
 
